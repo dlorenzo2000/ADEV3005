@@ -1,3 +1,7 @@
+# Date: Tue Jan03/23
+# Created by: Dean Lorenzo
+# Purpose: First python program
+
 from datetime import datetime
 import time
 import random
