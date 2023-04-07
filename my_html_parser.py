@@ -1,7 +1,7 @@
 """
 Name:           Dean Lorenzo
-Assignment:     Challenge (A
-Purpose:        Using Revision control.
+Assignment:     Challenge 9A
+Purpose:        Using Revision control on a past assignment.
 Date:           Apr 7, 2023
 """
 
