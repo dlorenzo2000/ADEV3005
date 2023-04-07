@@ -1,8 +1,8 @@
 """
 Name:           Dean Lorenzo
-Assignment:     Challenge 7A
-Purpose:        Parsing XHTML.
-Date:           Feb 28, 2023
+Assignment:     Challenge (A
+Purpose:        Using Revision control.
+Date:           Apr 7, 2023
 """
 
 from html.parser import HTMLParser
