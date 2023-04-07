@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: MyHTMLParser
+Version: 1.0
+Summary: A module for parsing HTML to extract the current IP address
+Author: Dean Lorenzo
+Author-email: deanlorenzo@abc123.com

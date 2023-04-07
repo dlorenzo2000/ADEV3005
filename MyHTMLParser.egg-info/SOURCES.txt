@@ -1,0 +1,7 @@
+README.txt
+my_html_parser.py
+setup.py
+MyHTMLParser.egg-info/PKG-INFO
+MyHTMLParser.egg-info/SOURCES.txt
+MyHTMLParser.egg-info/dependency_links.txt
+MyHTMLParser.egg-info/top_level.txt
