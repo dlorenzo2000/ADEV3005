@@ -1,8 +1,8 @@
 """
 Name:           Dean Lorenzo
-Assignment:     Challenge 7A
-Purpose:        Parsing XHTML.
-Date:           Feb 28, 2023
+Assignment:     Challenge 9A
+Purpose:        Using Revision control on a past assignment.
+Date:           Apr 7, 2023
 """
 
 from html.parser import HTMLParser
@@ -25,8 +25,8 @@ class MyHTMLParser(HTMLParser):
         self.ip = ''
     def handle_data(self, data):
         """
-        This method splits the data when it finds "Current IP and then strips 
-        everything else away from that string.
+        This method splits the data when it finds "Current IP and then 
+        strips everything else away from that string.
         """
         if "Current IP" in data:
             self.ip = data.split(":")[-1].strip()
